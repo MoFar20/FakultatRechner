@@ -1,4 +1,4 @@
-# FakultatRechner
+# Fakultät Rechner
 
 
 ## Was ist die Aufgabe?
